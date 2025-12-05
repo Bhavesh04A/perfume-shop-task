@@ -1,0 +1,15 @@
+# ----------------------------------------------------------------------
+# BACKEND IGNORES (Node/Express specific)
+# ----------------------------------------------------------------------
+
+# Dependencies
+/node_modules
+
+# Logs
+npm-debug.log
+.nodemon-rerun.log
+
+# Database
+.DS_Store
+
+/backend/.env
